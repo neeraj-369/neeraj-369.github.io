@@ -1,0 +1,76 @@
+.navigationbar{
+    text-align:center;
+    left: 0;
+    height: 43px;
+    width:  1440px;
+    background-color: rgb(74, 138, 95); 
+    border: solid black 2px;
+}
+
+hr{
+   height: 2px;
+   background-color: black;
+   border: none;
+}
+
+.navbutton{
+height: 40px;
+background-color: rgb(74, 138, 95);
+border-color: black;
+color: white;
+width: 162.45px;
+height: 45px;
+font-size:15px;
+margin-left: -6px;
+}
+
+body {
+    background-image: url("../img/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
+
+ table,th,td{
+
+    border: 1px solid black;
+    width:20%;
+    text-align:center;
+ }
+
+ input {
+   width: 15;
+   height:7px;
+   padding: 12px 20px;
+   box-sizing: border-box;
+   border: 2px solid rgb(19, 14, 14);
+ }
+
+.heading{
+   
+   height:100px;
+   border: solid black 2px;
+   background-color: white;
+   text-align: center;
+   background-image: url("../img/background2.jpg"); 
+   border-radius: 30px;
+}
+
+.contact{  
+   height:200px;
+   border: solid black 2px;
+   background-color: white;
+   text-align: center;
+   background-image: url("../img/background3.jpg"); 
+   border-radius: 30px;
+
+}
+
+.copyright{
+
+   height:45px;
+   border: solid black 2px;
+   background-color: rgb(220, 235, 84);
+   text-align: center;
+   border-radius: 15px;
+}
